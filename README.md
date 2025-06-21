@@ -88,7 +88,7 @@ Split into:
 ---
 
 ## 📸 Sample Output
-*(Include screenshots of predictions if available)*
+In progress..
 
 ---
 
